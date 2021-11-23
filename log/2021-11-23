@@ -54,3 +54,39 @@ SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"msgid\":\"mrVtVXE39it1t
 
 
 
+2021-11-23 18:43:11.998178
+输入定位签到模式
+单人签到模式
+当前IP：168.61.218.153,
+
+ 美国
+
+系统时间：2021-11-23 18:43:18
+UTC时间：2021-11-23 18:43:13
+北京时间：2021-11-24 02:43:12
+北京时间与系统时间误差：7:59:53.183210
+2021-11-23 18:43:18.816871:T2019216143签到开始
+cookie文件存在
+cookie文件加载成功
+NAME况俊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.793156，28.661475，江西省南昌市红谷滩区嘉言路699号工业贸易职业技术学院
+{"status":0,"result":{"location":{"lng":115.8045152713809,"lat":28.664522783701874},"formatted_address":"江西省南昌市红谷滩区五四中大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"五四中大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%98%89%E8%A8%80%E8%B7%AF699%E5%8F%B7%E5%B7%A5%E4%B8%9A%E8%B4%B8%E6%98%93%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E5%98%89%E8%A8%80%E8%B7%AF699%E5%8F%B7%E5%B7%A5%E4%B8%9A%E8%B4%B8%E6%98%93%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%98%89%E8%A8%80%E8%B7%AF699%E5%8F%B7%E5%B7%A5%E4%B8%9A%E8%B4%B8%E6%98%93%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.793058&lat=28.661406&sfby=1
+NAME况俊
+定位 115.793058，28.661406，江西省南昌市红谷滩区嘉言路699号工业贸易职业技术学院
+{"status":0,"result":{"location":{"lng":115.80441849573285,"lat":28.66457686486276},"formatted_address":"江西省南昌市红谷滩区五四中大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"五四中大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%98%89%E8%A8%80%E8%B7%AF699%E5%8F%B7%E5%B7%A5%E4%B8%9A%E8%B4%B8%E6%98%93%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E5%98%89%E8%A8%80%E8%B7%AF699%E5%8F%B7%E5%B7%A5%E4%B8%9A%E8%B4%B8%E6%98%93%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%98%89%E8%A8%80%E8%B7%AF699%E5%8F%B7%E5%B7%A5%E4%B8%9A%E8%B4%B8%E6%98%93%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.792961&lat=28.66146&sfby=1
+签到成功
+2021-11-23 18:43:59.061061:T2019216143签到结束
+况俊T2019216143签到成功！
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"msgid\":\"mrVtVXE39it1tWVvd57npJlBTlfImf2lnyR-ijo1Z3wY0LdfkPGFj7O0W9rqiwRraOy84lv80HAkYoGHlfdk-Q\"}"
+2021-11-23 18:44:01.540212程序结束
+######################################################################
+
+
+
+
