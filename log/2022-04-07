@@ -1,0 +1,36 @@
+2022-04-07 09:40:24.918873
+输入定位签到模式
+单人签到模式
+当前IP：52.176.91.70,
+
+ 美国加利福尼亚州圣克拉拉Microsoft公司
+
+系统时间：2022-04-07 09:40:26
+UTC时间：2022-04-07 10:40:25
+北京时间：2022-04-07 17:40:25
+北京时间与系统时间误差：7:59:58.903967
+2022-04-07 09:40:26.096103:T2019216143签到开始
+cookie文件存在
+cookie文件加载成功
+NAME况俊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 114.414826，27.807381，江西省宜春市袁州区官员小区
+{"status":0,"result":{"location":{"lng":114.42664891328161,"lat":27.81000605548728},"formatted_address":"江西省宜春市袁州区秀江东路","business":"宜阳大道,天宝路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"宜春市","city_level":2,"district":"袁州区","town":"","town_code":"","distance":"","direction":"","adcode":"360902","street":"秀江东路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":278}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%AE%9C%E6%98%A5%E5%B8%82&district=%E8%A2%81%E5%B7%9E%E5%8C%BA&street=%E5%AE%98%E5%91%98%E5%B0%8F%E5%8C%BA&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%AE%9C%E6%98%A5%E5%B8%82%E8%A2%81%E5%B7%9E%E5%8C%BA%E5%AE%98%E5%91%98%E5%B0%8F%E5%8C%BA&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%AE%9C%E6%98%A5%E5%B8%82&bdistrict=%E8%A2%81%E5%B7%9E%E5%8C%BA&bstreet=%E5%AE%98%E5%91%98%E5%B0%8F%E5%8C%BA&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%AE%9C%E6%98%A5%E5%B8%82&sdistrict=%E8%A2%81%E5%B7%9E%E5%8C%BA&lng=114.414773&lat=27.80745&sfby=1
+NAME况俊
+定位 114.414773，27.80745，江西省宜春市袁州区官员小区
+{"status":0,"result":{"location":{"lng":114.42668879829356,"lat":27.80997323829755},"formatted_address":"江西省宜春市袁州区秀江东路健走步道","business":"宜阳大道,天宝路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"宜春市","city_level":2,"district":"袁州区","town":"","town_code":"","distance":"","direction":"","adcode":"360902","street":"秀江东路健走步道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":278}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%AE%9C%E6%98%A5%E5%B8%82&district=%E8%A2%81%E5%B7%9E%E5%8C%BA&street=%E5%AE%98%E5%91%98%E5%B0%8F%E5%8C%BA&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%AE%9C%E6%98%A5%E5%B8%82%E8%A2%81%E5%B7%9E%E5%8C%BA%E5%AE%98%E5%91%98%E5%B0%8F%E5%8C%BA&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%AE%9C%E6%98%A5%E5%B8%82&bdistrict=%E8%A2%81%E5%B7%9E%E5%8C%BA&bstreet=%E5%AE%98%E5%91%98%E5%B0%8F%E5%8C%BA&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%AE%9C%E6%98%A5%E5%B8%82&sdistrict=%E8%A2%81%E5%B7%9E%E5%8C%BA&lng=114.414813&lat=27.807417&sfby=1
+签到成功
+2022-04-07 09:41:03.282872:T2019216143签到结束
+况俊T2019216143签到成功！
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"msgid\":\"mrVtVXE39it1tWVvd57npAfkLOHCES-7Cfd_7rElCyKsTJcNQPpMStt7AK--RXPyxUODXX-6fWrlUwkheZAC7w\"}"
+2022-04-07 09:41:07.143624程序结束
+######################################################################
+
+
+
+
